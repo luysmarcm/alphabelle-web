@@ -39,16 +39,7 @@ const TestimonialsSection = () => {
 	return (
 		<section className="relative py-32 px-6 text-center overflow-hidden min-h-[700px] flex flex-col justify-center">
 			{/* Fondo */}
-			<div className="absolute inset-0 -z-10">
-				<Image
-					src="/images/city.jpg"
-					alt="background"
-					fill
-					className="object-cover grayscale"
-				/>
-				<div className="absolute inset-0 bg-[#dcd6cc]/85" />
-			</div>
-
+		
 			<h2 className="text-5xl font-bold mb-20 italic">Comentarios</h2>
 
 			{/* CONTENEDOR RELATIVO PRINCIPAL */}

@@ -37,6 +37,7 @@ export default function ServicesSection() {
 								icon={service.icon}
 								centered={index === services.length - 1}
 								onClick={() => setSelectedIndex(num)}
+								t={t}
 							/>
 						);
 					})}

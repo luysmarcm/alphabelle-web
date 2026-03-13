@@ -7,7 +7,7 @@ const ServiceCard = ({
 	description,
 	icon,
 	centered = false,
-	onClick,
+	onClick, t
 }) => {
 	return (
 		<div
@@ -41,7 +41,7 @@ const ServiceCard = ({
 					onClick();
 				}}
 			>
-				Quiero saber más
+				{t("buttons1")}
 				<ArrowRight size={16} />
 			</button>
 		</div>

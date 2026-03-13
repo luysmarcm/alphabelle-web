@@ -1,5 +1,6 @@
 
 import AboutSection from "@/components/About/AboutSection";
+import BackgroundWrapper from "@/components/BackgroundWrapper";
 import Banner from "@/components/Banner";
 import ContactSection from "@/components/Contact/ContactSection";
 import MapSection from "@/components/Contact/Mapsection";
@@ -15,8 +16,7 @@ export default function Home() {
 			<HeroBanner />
 			{/* <Banner /> */}
 			<ServicesSection/>
-			<AboutSection/>
-			<TestimonialsSection/>
+			<BackgroundWrapper/>
 			<ContactSection/>
 			<MapSection/>
 		</main>
