@@ -21,7 +21,10 @@ export default function ServicesSection() {
 
 	return (
 		<>
-			<section className="relative bg-[#f3f3f3] py-24 px-6 overflow-hidden">
+			<section
+				id="services"
+				className="relative bg-[#f3f3f3] py-24 px-6 overflow-hidden"
+			>
 				<h2 className="text-4xl md:text-5xl font-bold text-center mb-20">
 					{t("title")}
 				</h2>

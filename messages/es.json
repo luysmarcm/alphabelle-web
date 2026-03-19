@@ -7,7 +7,7 @@
     "links3":"Servicios",
     "href3":"/#services",
     "links4":"Reservacion",
-    "href4":"/#howWill",
+    "href4":"/reservation",
     "links5":"English",
     "href5":"/en",
     "buttonCont":"Reservar una cita"
