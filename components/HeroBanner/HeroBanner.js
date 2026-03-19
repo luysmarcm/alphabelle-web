@@ -1,6 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
 
 const HeroBanner = () => {
 	const t = useTranslations("Banner");
@@ -44,9 +45,12 @@ const HeroBanner = () => {
 					</p>
 
 					{/* Botón */}
-					<button className="mx-auto w-fit border-2 border-black px-10 py-3 rounded-2xl font-semibold hover:bg-black hover:text-white transition">
-						{t("buttonc")}
-					</button>
+
+					<Link href="#contact" passHref>
+						<button className="mx-auto w-fit border-2 border-black px-10 py-3 rounded-2xl font-semibold hover:bg-black hover:text-white transition">
+							{t("buttonc")}
+						</button>
+					</Link>
 				</div>
 			</div>
 

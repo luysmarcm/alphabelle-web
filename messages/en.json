@@ -175,7 +175,10 @@
   "address": "Address",
   "successMessage": "Form submitted successfully!",
   "services": "Service",
-  "error": "Please fill in all fields before submitting the form."
+  "error": "Please fill in all fields before submitting the form.",
+  "sending": "Sending...",
+  "selectService":"Select a service",
+  "service":"Service"
 },
   "Testimonial":{
     "title":"Testimonial?",

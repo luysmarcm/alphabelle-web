@@ -39,7 +39,7 @@ const TestimonialsSection = () => {
 	return (
 		<section className="relative py-32 px-6 text-center overflow-hidden min-h-[700px] flex flex-col justify-center">
 			{/* Fondo */}
-		
+
 			<h2 className="text-5xl font-bold mb-20 italic">Comentarios</h2>
 
 			{/* CONTENEDOR RELATIVO PRINCIPAL */}
@@ -50,7 +50,7 @@ const TestimonialsSection = () => {
 					className="absolute left-4 top-1/2 -translate-y-1/2 z-50 p-4 bg-white/90 rounded-full hover:bg-white transition-all shadow-xl backdrop-blur-sm active:scale-95"
 					aria-label="Anterior"
 				>
-					<ChevronLeft size={36} className="text-gray-800" />
+					<ChevronLeft size={24} sm={36} className="text-gray-800" />
 				</button>
 
 				{/* CONTENEDOR DE TARJETAS (Ocupa el centro) */}
@@ -89,7 +89,7 @@ const TestimonialsSection = () => {
 					className="absolute right-4 top-1/2 -translate-y-1/2 z-50 p-4 bg-white/90 rounded-full hover:bg-white transition-all shadow-xl backdrop-blur-sm active:scale-95"
 					aria-label="Siguiente"
 				>
-					<ChevronRight size={36} className="text-gray-800" />
+					<ChevronRight size={24} sm={36} className="text-gray-800" />
 				</button>
 			</div>
 		</section>

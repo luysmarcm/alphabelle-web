@@ -175,7 +175,10 @@
   "address": "Dirección",
   "successMessage": "¡Formulario enviado con éxito!",
   "services": "Servicio",
-  "error": "Por favor, completa todos los campos antes de enviar el formulario."
+  "error": "Por favor, completa todos los campos antes de enviar el formulario.",
+  "sending": "Enviando...",
+  "selectService":"Selecciona un servicio",
+  "service":"Servicio"
 },
   "Testimonial":{
     "title":"Comentarios",
