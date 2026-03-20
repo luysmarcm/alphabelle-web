@@ -12,9 +12,9 @@ import Head from "next/head";
 const montse = Montserrat({ subsets: ["latin"] });
 
 export const metadata = {
-	title: "AlphaBelle",
+	title: "AlphaBelle Wellness",
 	description:
-		"Your reliable partner to improve your property! We offer customized and effective solutions for projects of any size, guaranteeing results that exceed your expectations.",
+		"We have designed a space where regenerative medicine and high-end aesthetics converge to empower the best version of our patients.",
 	icons: {
 		icon: ["/favicon.ico"], // Ruta a tu favicon
 	},
