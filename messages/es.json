@@ -27,13 +27,17 @@
   "AboutUs":{
     "heading":"Sobre nosotros",
     "title":"Sobre nosotras",
-    "subTitle":"Hemos diseñado un espacio donde la medicina regenerativa y la estética de alta gama convergen para potenciar la mejor versión de nuestros pacientes.",
-    "text":"Desde nuestra fundación en 2020, nuestra misión en Monarca Life Improvement ha sido facilitar a nuestros clientes la realización de mejoras en sus propiedades y el impulso de sus negocios, especialmente cuando carecen de los recursos necesarios en el momento crucial. Nos dedicamos a ofrecer soluciones efectivas y personalizadas, buscando constantemente las mejores opciones para satisfacer las necesidades de nuestros clientes y ayudarles a alcanzar sus metas con éxito.",
-    "mision":"Mision",
-    "textM":"",
-    "vision":"Vision",
-    "textV":""
-  },
+    "subTitle": "Hemos diseñado un espacio donde la medicina regenerativa y la estética de alta gama convergen para potenciar la mejor versión de nuestros pacientes.",
+    "text": "En AlphaBelle Wellness, creemos que el bienestar y el cuidado estético son para todos. Nuestro enfoque integra a la perfección salud, equilibrio y belleza, ofreciendo soluciones personalizadas diseñadas para ayudar a cada individuo a alcanzar su mejor versión.",
+    "text1": "Combinamos tecnología avanzada con un enfoque integral orientado a resultados que va más allá de los tratamientos superficiales. Desde programas médicos de pérdida de peso y optimización hormonal hasta servicios estéticos como Botox, rellenos dérmicos y terapias avanzadas de regeneración de la piel, cada tratamiento se adapta para ofrecer resultados naturales y duraderos.",
+    "text2": "En AlphaBelle Wellness, no solo mejoramos la apariencia; ayudamos a restaurar la confianza, optimizar la salud general y elevar la calidad de vida.",
+    "mision": "Misión",
+    "textM": "En AlphaBelle Wellness, nuestra misión es redefinir el bienestar y la estética a través de una experiencia exclusiva y personalizada basada en la excelencia médica. Nos dedicamos a elevar la mejor versión de cada individuo mediante tratamientos avanzados enfocados en la pérdida de peso, el equilibrio hormonal y la regeneración de la piel.",
+    "textM1": "Al combinar ciencia, innovación y un enfoque holístico, entregamos resultados visibles, naturales y duraderos, creando un ambiente donde cada detalle está diseñado para inspirar confianza, mejorar la autoimagen y promover un bienestar auténtico y sostenible.",
+    "vision": "Visión",
+    "textV": "Nuestra visión es establecer a AlphaBelle Wellness como un destino de primer nivel en el bienestar moderno y la medicina estética, reconocido por su innovación, sofisticación y resultados excepcionales.",
+    "textV1": "Aspiramos a construir una marca icónica donde la salud, la belleza y el alto rendimiento existan en perfecta armonía, estableciendo un nuevo estándar en la industria y brindando una experiencia transformadora que trasciende lo convencional."
+    },
   "HowWeWork":{
     "title":"¿Como lo haremos?",
     "text1":"Para comenzar, coordinaremos una cita contigo y tu familia para realizar un diagnóstico detallado de la situación actual que estás enfrentando. Luego, te presentaremos las opciones de solución más adecuadas para tus necesidades específicas.",

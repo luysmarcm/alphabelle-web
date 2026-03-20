@@ -32,6 +32,10 @@ const AboutUsComponent = ({ t }) => {
                     </h3>
                     <p className="mt-4 text-gray-600 font-light leading-relaxed">
                         {t("text")}
+                        <br/>
+                        {t("text1")}
+                        <br/>
+                        {t("text2")}
                     </p>
                 </div>
 
@@ -58,7 +62,9 @@ const AboutUsComponent = ({ t }) => {
             <div className="text-center"> 
                 <h4 className="font-bold italic text-2xl mb-4 uppercase tracking-tight">{t("mision")}</h4>
                 <p className="text-base text-gray-700 font-light leading-relaxed">
-                    {t("textM") ?? "Driving a sustainable future with renewable energy and high quality projects..."}
+                    {t("textM")}
+                    <br/>
+                    {t("textM1")}
                 </p>
             </div>
         </div>
@@ -80,7 +86,8 @@ const AboutUsComponent = ({ t }) => {
             <div className="text-center">
                 <h4 className="font-bold italic text-2xl mb-4 uppercase tracking-tight">{t("vision")}</h4>
                 <p className="text-base text-gray-700 font-light leading-relaxed">
-                    {t("textV") ?? "Leading in clean energy and sustainable construction..."}
+                    {t("textV")}<br/>
+                    {t("textV1")}
                 </p>
             </div>
         </div>
