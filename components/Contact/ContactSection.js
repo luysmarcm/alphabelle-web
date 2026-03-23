@@ -118,13 +118,16 @@ const ContactSection = () => {
 					</div>
 
 					<div className="flex flex-col sm:flex-row gap-6 pt-4 text-gray-200">
-						<div className="flex items-center gap-3">
-							<Phone size={20} className="text-gray-400" />
-							<span className="font-medium text-lg">{t("phoneE")}</span>
+						<div className="flex items-center gap-2 hover:text-white cursor-pointer transition-colors">
+							<Mail size={18} />
+							<span>info@alphabellewellness.com</span>
 						</div>
-						<div className="flex items-center gap-3">
-							<Mail size={20} className="text-gray-400" />
-							<span className="font-medium text-lg">{t("emailE")}</span>
+						<div className="flex items-center gap-2 hover:text-white cursor-pointer transition-colors">
+							<Phone size={18} />
+							<span>(346) 717-5550
+								<br />
+								(321) 330-6424
+							</span>
 						</div>
 					</div>
 				</div>

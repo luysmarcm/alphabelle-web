@@ -176,12 +176,31 @@
   "selectService":"Select a service",
   "service":"Service"
 },
-  "Testimonial":{
-    "title":"Testimonial?",
-    "nombre1":"Gustavo Cortes",
-    "profecion":"",
-    "mensaje1":""
-  },
+  
+ "Testimonial": {
+    "title": "Testimonials",
+    "persona1": {
+      "nombre": "Gustavo Cortes",
+      "profesion": "Entrepreneur",
+      "mensaje": "Excellent service and very natural results. The AlphaBelle team exceeded my expectations with impeccable care."
+    },
+    "persona2": {
+      "nombre": "Elena Rodriguez",
+      "profesion": "Interior Designer",
+      "mensaje": "I loved the technology they use. You can really tell the expertise and the attention to detail in every treatment."
+    },
+    "persona3": {
+      "nombre": "Ricardo Mendez",
+      "profesion": "Architect",
+      "mensaje": "A modern and professional space. The results were visible from the first session, highly recommended."
+    },
+    "persona4": {
+      "nombre": "Sofia Villalobos",
+      "profesion": "Image Consultant",
+      "mensaje": "The best aesthetic clinic in town. The staff is very friendly and the facilities are top-notch."
+    }
+  }
+,
   "Allies":{
     "title":"Our Allies"
   },

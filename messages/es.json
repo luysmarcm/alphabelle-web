@@ -176,11 +176,28 @@
   "selectService":"Selecciona un servicio",
   "service":"Servicio"
 },
-  "Testimonial":{
-    "title":"Comentarios",
-    "nombre1":"Gustavo Cortes",
-    "profecion":"",
-    "mensaje1":""
+ "Testimonial": {
+    "title": "Testimonios",
+    "persona1": {
+      "nombre": "Gustavo Cortés",
+      "profesion": "Empresario",
+      "mensaje": "Excelente atención y resultados muy naturales. El equipo de AlphaBelle superó mis expectativas con un trato impecable."
+    },
+    "persona2": {
+      "nombre": "Elena Rodríguez",
+      "profesion": "Diseñadora de Interiores",
+      "mensaje": "Me encantó la tecnología que utilizan. Se nota la experiencia y el cuidado en cada detalle del tratamiento."
+    },
+    "persona3": {
+      "nombre": "Ricardo Méndez",
+      "profesion": "Arquitecto",
+      "mensaje": "Un espacio moderno y profesional. Los resultados fueron visibles desde la primera sesión, totalmente recomendados."
+    },
+    "persona4": {
+      "nombre": "Sofía Villalobos",
+      "profesion": "Consultora de Imagen",
+      "mensaje": "La mejor clínica estética de la ciudad. El personal es muy amable y las instalaciones son de primer nivel."
+    }
   },
   "Allies":{
     "title":"Nuestros Aliados"

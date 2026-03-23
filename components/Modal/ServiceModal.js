@@ -2,6 +2,7 @@
 
 import React, { useEffect } from "react";
 import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 
 const SERVICE_CONFIG = {
 	1: {
@@ -51,6 +52,7 @@ const SERVICE_CONFIG = {
 
 export default function ServiceModal({ serviceIndex, onClose }) {
 	const t = useTranslations("Services");
+	const localActive = useLocale();
 
 	useEffect(() => {
 		const handleKey = (e) => {
@@ -96,16 +98,7 @@ export default function ServiceModal({ serviceIndex, onClose }) {
 				>
 					{/* ── Header ── */}
 					<div className="relative bg-white rounded-t-[22px] px-7 pt-7 pb-6 border-b border-[#e8e5db]">
-						{/* Logo */}
-						<div className="flex items-center gap-2 mb-4">
-							<div className="w-[30px] h-[30px] border border-[#1a1a1a] rounded-full flex items-center justify-center text-[9px] tracking-[0.05em] text-[#1a1a1a]">
-								AB
-							</div>
-							<span className="text-[10px] tracking-[0.25em] uppercase text-[#999]">
-								Alphabelle
-							</span>
-						</div>
-
+						
 						{/* Subtitle */}
 						<p className="text-[10px] tracking-[0.3em] uppercase text-[#bbb] mb-1.5">
 							{t("subtitle")}
@@ -194,7 +187,8 @@ export default function ServiceModal({ serviceIndex, onClose }) {
 								<p className="text-xs text-[#999] mt-0.5">{t("texts2")}</p>
 							</div>
 							<button className="ab-cta-btn bg-[#1a1a1a] text-[#f2f0e9] rounded-[10px] px-5 py-2.5 text-xs font-semibold tracking-[0.06em] cursor-pointer whitespace-nowrap transition-all duration-150 border-none">
-								{t("buttons1")}
+							
+							<a href={`/${localActive}/#contact`}> {t("buttons1")}</a>	
 							</button>
 						</div>
 					</div>
