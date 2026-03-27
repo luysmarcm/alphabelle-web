@@ -96,25 +96,19 @@
   "d37": "Cicatrices.",
   "d38": "Textura irregular.",
  
-  "s4": "Plasma Rico en Plaquetas (PRP)",
-  "imagen4": "/image/icono-rentable.png",
-  "descripcion4": "Tratamiento autólogo basado en la centrifugación de sangre del paciente para aislar una alta concentración de plaquetas y factores de crecimiento.",
-  "text4": "Mecanismo de acción",
-  "text42": "Modalidades",
-  "text43": "Indicado para",
-  "text44": "Aplicación intradérmica o subdérmica para bioestimulación profunda.",
-  "extra41": "Liberación de factores de crecimiento (PDGF, TGF-β, VEGF).",
-  "extra42": "Estimulación de angiogénesis.",
-  "extra43": "Activación de fibroblastos.",
-  "extra44": "Inducción de neocolagenesis.",
-  "d41": "PRP Inyectado",
-  "d42": "Aplicación intradérmica o subdérmica para bioestimulación profunda.",
-  "d43": "PRP combinado con Microneedling (Dermapen)",
-  "d44": "Inducción controlada de microcanales para potenciar penetración y activación regenerativa.",
-  "d45": "Alopecia.",
-  "d46": "Rejuvenecimiento facial.",
-  "d47": "Cicatrices de acné.",
-  "d48": "Melasma complementario.",
+ "s4":"Platelet-Rich Plasma (PRP)",
+    "imagen4":"/image/icono-rentable.png",
+    "descripcion4":"Tratamiento autólogo basado en la centrifugación de sangre del paciente para aislar una alta concentración de plaquetas y factores de crecimiento.",
+
+    "text4": "Mecanismo de acción:",
+    "text42":"Modalities:",
+    "text43":"PRP Inyectado:",
+    "text44":"Aplicación intradérmica o subdérmica para bioestimulación profunda.",
+
+    "d41":"Liberación de factores de crecimiento (PDGF, TGF-β, VEGF)",
+    "d42":"Estimulación de angiogénesis.",
+    "d43":"Activación de fibroblastos.",
+    "d44":"Inducción de neocolágenesis.",
  
   "s5": "Terapia de Reemplazo de Testosterona (TRT)",
   "imagen5": "/image/icono-remodelacion.png",
@@ -150,7 +144,17 @@
   "d71": "Alopecia.",
   "d72": "Rejuvenecimiento facial.",
   "d73": "Cicatrices de acné.",
-  "d74": "Melasma complementario."
+  "d74": "Melasma complementario.",
+
+    "s8":"Terapia Hormonal",
+    "descripcion8":"La terapia hormonal en medispas está diseñada para equilibrar los niveles hormonales del cuerpo, ayudando a mejorar síntomas como fatiga, cambios de humor, aumento de peso, baja energía y disminución del deseo sexual. A través de evaluaciones personalizadas, se desarrollan protocolos adaptados a cada paciente, promoviendo bienestar integral, vitalidad y un mejor funcionamiento del organismo.",
+    
+
+    "s9":"IV Therapy (Terapia Intravenosa)",
+    "descripcion9":"La IV Therapy consiste en la administración de vitaminas, minerales y antioxidantes directamente en el torrente sanguíneo, permitiendo una absorción rápida y efectiva. Estos “cocteles nutricionales” están formulados para hidratar, fortalecer el sistema inmunológico, aumentar la energía, mejorar la piel y apoyar la recuperación del cuerpo de manera inmediata y eficiente.",
+
+    "s10":"Programas de Pérdida de Peso con Planes Nutricionales",
+    "descripcion10":"Ofrecemos programas de pérdida de peso completamente personalizados, diseñados según las necesidades, metabolismo y objetivos de cada persona. Nuestros planes nutricionales están enfocados en lograr resultados sostenibles, promoviendo hábitos saludables, balance hormonal y bienestar general, para que cada paciente no solo pierda peso, sino que mejore su calidad de vida a largo plazo."
 },
  "Contact": {
   "title": "Solicitud de información",

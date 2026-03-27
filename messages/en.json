@@ -65,7 +65,7 @@
 
     "s2":"Dermal Fillers (Hyaluronic Acid and Biostimulators)",
     "imagen2":"/image/icono-renovacion.png",
-    "descripcion2":"Injectable procedures designed to restore volume, improve facial contours, and correct structural loss associated with aging.",
+    "descripcion2":"Injectable procedures designed to restore volume, improve facial contours, and correct structural loss associated with aging. ",
     "text2":"The materials used are biocompatible and resorbable, with immediate results and variable duration depending on the product and the patient’s metabolism.",
     "text22":"Treated areas",
     "text23":"Mechanism:",
@@ -101,7 +101,7 @@
     "text4": "Mechanism of action:",
     "text42":"Modalities:",
     "text43":"Injected PRP:",
-    "text44":"Intradermal or subdermal application for deep biostimulation.:",
+    "text44":"Intradermal or subdermal application for deep biostimulation.",
 
     "d41":"Release of growth factors (PDGF, TGF-β, VEGF)",
     "d42":"Stimulation of angiogenesis.",
@@ -132,7 +132,7 @@
     
     "s6":"Medical Weight Management with GLP-1 / GIP Agonists",
     "imagen6":"/image/icono-instalacion.png",
-    "descripcion6":"Personalized medical protocols for weight control using injectable medications such as:",
+    "descripcion6":"Personalized medical protocols for weight control using injectable medications such as: Ozempic (Semaglutide) and Mounjaro (Tirzepatide)",
 
     "text6":"Mechanism of action:",
     "text62":"Indications:",
@@ -148,7 +148,17 @@
     "d71":"Alopecia",
     "d72":"Facial rejuvenation",
     "d73":"Acne scars.",
-    "d74":"Adjunct treatment for melasma."
+    "d74":"Adjunct treatment for melasma.",
+
+    "s8": "Hormone Therapy",
+  "descripcion8": "Hormone therapy in medispas is designed to balance the body's hormone levels, helping to improve symptoms such as fatigue, mood swings, weight gain, low energy, and decreased sexual desire. Through personalized evaluations, protocols tailored to each patient are developed, promoting overall well-being, vitality, and better body function.",
+
+  "s9": "IV Therapy (Intravenous Therapy)",
+  "descripcion9": "IV Therapy consists of administering vitamins, minerals, and antioxidants directly into the bloodstream, allowing for fast and effective absorption. These 'nutritional cocktails' are formulated to hydrate, strengthen the immune system, boost energy, improve skin, and support the body's recovery in an immediate and efficient way.",
+
+  "s10": "Weight Loss Programs with Nutritional Plans",
+  "descripcion10": "We offer fully personalized weight loss programs, designed according to each person's needs, metabolism, and goals. Our nutritional plans focus on achieving sustainable results by promoting healthy habits, hormonal balance, and overall well-being, so that each patient not only loses weight but also improves their quality of life in the long term."
+
   },
 
 "Contact": {

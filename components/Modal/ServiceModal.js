@@ -15,6 +15,7 @@ const SERVICE_CONFIG = {
 		sections: [
 			{ labelKey: "text22", items: ["d21", "d22", "d23", "d24", "d25", "d26"] },
 			{ labelKey: "text23", items: ["d27", "d28"] },
+			{ labelKey: "text2", items: [] },
 		],
 	},
 	3: {
@@ -48,6 +49,25 @@ const SERVICE_CONFIG = {
 	7: {
 		sections: [{ labelKey: "text71", items: ["d71", "d72", "d73", "d74"] }],
 	},
+	8: {
+		sections: [
+			{ labelKey: "text8", items: ["d81", "d82", "d83", "d84"] },
+			{ labelKey: "text82", items: [] },
+		],
+	},
+	9: {
+		sections: [
+			{ labelKey: "text9", items: ["d91", "d92", "d93", "d94"] },
+			{ labelKey: "text92", items: [] },
+		],
+	},
+	10: {
+		sections: [
+			{ labelKey: "text10", items: ["d101", "d102", "d103", "d104"] },
+			{ labelKey: "text102", items: [] },
+		],
+	}
+
 };
 
 export default function ServiceModal({ serviceIndex, onClose }) {

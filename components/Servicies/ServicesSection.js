@@ -17,6 +17,9 @@ export default function ServicesSection() {
 		{ icon: "/image/icons/Icono TRT.png" },
 		{ icon: "/image/icons/Icono manejo de peso.png" },
 		{ icon: "/image/icons/Icono dermape.png" },
+		{ icon: "/image/icons/Icono terapia hormona.png" },
+		{ icon: "/image/icons/Icono terapia intravenosa.png" },
+		{ icon: "/image/icons/Icono plan de nutricion.png" },
 	];
 
 	return (
