@@ -57,7 +57,7 @@ export default function Footer() {
 								label: "info@alphabellewellness.com",
 							},
 							{ icon: <Phone size={14} />, label: "(346) 717-5550 / (321) 330-6424" },
-							// { icon: <Instagram size={14} />, label: t("social") },
+							{ icon: <Instagram size={14} />, label: "@alphabellewellness" },
 						].map(({ icon, label }) => (
 							<li
 								key={label}
