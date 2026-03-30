@@ -12,14 +12,14 @@ export default function Footer() {
 
 	return (
 		<footer className="w-full bg-[#f2f0e9] border-t border-[#e0dcd2] px-8 md:px-16 py-10">
-			<div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10 items-center">
+			<div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10 items-start">
 				{/* ── Columna 1: Logo ── */}
 				<div className="flex flex-col items-center md:items-start gap-3">
 					<Image
 						src="/image/logo.png"
 						alt="Logo"
-						width={184}
-						height={126}
+						width={284}
+						height={226}
 						priority
 					/>
 				</div>
