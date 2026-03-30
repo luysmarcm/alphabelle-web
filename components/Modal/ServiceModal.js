@@ -51,20 +51,19 @@ const SERVICE_CONFIG = {
 	},
 	8: {
 		sections: [
-			{ labelKey: "text8", items: ["d81", "d82", "d83", "d84"] },
-			{ labelKey: "text82", items: [] },
+			{ labelKey: "text8", items: ["d81"] },
+			
 		],
 	},
 	9: {
 		sections: [
-			{ labelKey: "text9", items: ["d91", "d92", "d93", "d94"] },
-			{ labelKey: "text92", items: [] },
+			{ labelKey: "text9", items: ["d91"] },
 		],
 	},
 	10: {
 		sections: [
-			{ labelKey: "text10", items: ["d101", "d102", "d103", "d104"] },
-			{ labelKey: "text102", items: [] },
+			{ labelKey: "text10", items: ["d101"] },
+			{ labelKey: "text11", items: [] },
 		],
 	}
 

@@ -151,13 +151,20 @@
     "d74":"Adjunct treatment for melasma.",
 
     "s8": "Hormone Therapy",
-  "descripcion8": "Hormone therapy in medispas is designed to balance the body's hormone levels, helping to improve symptoms such as fatigue, mood swings, weight gain, low energy, and decreased sexual desire. Through personalized evaluations, protocols tailored to each patient are developed, promoting overall well-being, vitality, and better body function.",
+    "descripcion8": "A refined, clinically guided approach to restoring hormonal balance, supporting improved energy levels, mood stability, body composition, and overall vitality.",
+    "text8":"Ideal for:",
+    "d81":"Individuals experiencing hormonal imbalances or those seeking to elevate their physical and emotional well-being.",
+   
+    "s9": "IV Therapy (Intravenous Therapy)",
+    "descripcion9": "A premium intravenous treatment delivering essential vitamins, minerals, and antioxidants directly into the bloodstream for maximum absorption and immediate results in hydration, energy, and skin radiance.",
+    "text9":"Ideal for:",
+    "d91":"Those looking to boost immunity, combat fatigue, enhance performance, or achieve a radiant, healthy glow from within.",
 
-  "s9": "IV Therapy (Intravenous Therapy)",
-  "descripcion9": "IV Therapy consists of administering vitamins, minerals, and antioxidants directly into the bloodstream, allowing for fast and effective absorption. These 'nutritional cocktails' are formulated to hydrate, strengthen the immune system, boost energy, improve skin, and support the body's recovery in an immediate and efficient way.",
-
-  "s10": "Weight Loss Programs with Nutritional Plans",
-  "descripcion10": "We offer fully personalized weight loss programs, designed according to each person's needs, metabolism, and goals. Our nutritional plans focus on achieving sustainable results by promoting healthy habits, hormonal balance, and overall well-being, so that each patient not only loses weight but also improves their quality of life in the long term."
+    "s10": "Weight Loss Programs with Nutritional Plans",
+    "descripcion10": "We offer fully personalized weight loss programs, designed according to each person's needs, metabolism, and goals. ",
+    "text11":"Our nutritional plans focus on achieving sustainable results by promoting healthy habits, hormonal balance, and overall well-being, so that each patient not only loses weight but also improves their quality of life in the long term.",
+    "text10":"Ideal for:",
+    "d101":"Individuals committed to transforming their body, improving metabolic health, and achieving long-term results."
 
   },
 

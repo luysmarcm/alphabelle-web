@@ -42,7 +42,7 @@ export default function Footer() {
 				</div>
 
 				{/* ── Columna 3: Contacto ── */}
-				<div className="flex flex-col items-center md:items-end gap-3">
+				<div className="flex flex-col items-center gap-3">
 					<p className="text-xs tracking-[0.2em] uppercase text-[#888] mb-1">
 						{t("text1")}
 					</p>
@@ -57,14 +57,16 @@ export default function Footer() {
 								label: "info@alphabellewellness.com",
 							},
 							{ icon: <Phone size={14} />, label: "(346) 717-5550 / (321) 330-6424" },
-							{ icon: <Instagram size={14} />, label: "@alphabellewellness" },
-						].map(({ icon, label }) => (
+							{ icon: <Instagram size={14} />, label: "alphabellewellness" , href: "https://www.instagram.com/alphabellewellness/"},
+						].map(({ icon, label, href }) => (
 							<li
 								key={label}
 								className="flex items-center gap-2 text-sm text-[#444] hover:text-[#1a1a1a] cursor-pointer transition-colors duration-150"
 							>
 								<span className="text-[#888]">{icon}</span>
-								{label}
+								<a href={href} target="_blank" rel="noopener noreferrer">
+									{label}
+								</a>
 							</li>
 						))}
 					</ul>

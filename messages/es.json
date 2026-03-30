@@ -147,15 +147,23 @@
   "d74": "Melasma complementario.",
 
     "s8":"Terapia Hormonal",
-    "descripcion8":"La terapia hormonal en medispas está diseñada para equilibrar los niveles hormonales del cuerpo, ayudando a mejorar síntomas como fatiga, cambios de humor, aumento de peso, baja energía y disminución del deseo sexual. A través de evaluaciones personalizadas, se desarrollan protocolos adaptados a cada paciente, promoviendo bienestar integral, vitalidad y un mejor funcionamiento del organismo.",
+    "descripcion8":"Un enfoque sofisticado y clínicamente supervisado para restablecer el equilibrio hormonal del cuerpo, mejorando la energía, el estado de ánimo, la composición corporal y la vitalidad general.",
+    "text8":"Ideal para:",
+    "d81":"Personas que buscan optimizar su bienestar, mejorar síntomas asociados a desequilibrios hormonales o recuperar su mejor versión física y emocional.",
     
 
     "s9":"IV Therapy (Terapia Intravenosa)",
-    "descripcion9":"La IV Therapy consiste en la administración de vitaminas, minerales y antioxidantes directamente en el torrente sanguíneo, permitiendo una absorción rápida y efectiva. Estos “cocteles nutricionales” están formulados para hidratar, fortalecer el sistema inmunológico, aumentar la energía, mejorar la piel y apoyar la recuperación del cuerpo de manera inmediata y eficiente.",
+    "descripcion9":"Un tratamiento premium que aporta vitaminas, minerales y antioxidantes directamente al torrente sanguíneo, garantizando una absorción máxima y resultados inmediatos en energía, hidratación y luminosidad de la piel.",
+    "text9":"Ideal para:",
+    "d91":"Quienes desean revitalizar su organismo, fortalecer el sistema inmunológico, mejorar el rendimiento físico o lograr un efecto glow desde el interior.",
 
     "s10":"Programas de Pérdida de Peso con Planes Nutricionales",
-    "descripcion10":"Ofrecemos programas de pérdida de peso completamente personalizados, diseñados según las necesidades, metabolismo y objetivos de cada persona. Nuestros planes nutricionales están enfocados en lograr resultados sostenibles, promoviendo hábitos saludables, balance hormonal y bienestar general, para que cada paciente no solo pierda peso, sino que mejore su calidad de vida a largo plazo."
-},
+    "descripcion10":"Ofrecemos programas de pérdida de peso completamente personalizados, diseñados según las necesidades, metabolismo y objetivos de cada persona. ",
+    "text11":"Nuestros planes nutricionales están enfocados en lograr resultados sostenibles, promoviendo hábitos saludables, balance hormonal y bienestar general, para que cada paciente no solo pierda peso, sino que mejore su calidad de vida a largo plazo.",
+    "text10":"Ideal for:",
+    "d101":"Personas comprometidas con transformar su cuerpo, optimizar su salud metabólica y alcanzar un equilibrio físico duradero."
+
+  },
  "Contact": {
   "title": "Solicitud de información",
   "subTitle": "Programa tu consulta",
